@@ -1,1 +1,10 @@
+I have shared 2 folders from my drive
+train: https://drive.google.com/drive/folders/1q1jLLHKKbk4vYU6OB0uqF0CBzfsvAGPM?usp=sharing
+test: https://drive.google.com/drive/folders/1aLESEge85oc1P7LvziWUnkwUfloWvBHY?usp=sharing
 
+All you have to do is download these 2 folders and upload them into your drive (train, test)
+
+The train folder contains the data from all countries from the season 2000-2022. Each country would have a different number division
+for example, England 0 would be the Premier League, England 1 would be the EFL Championship.
+
+The test folder contains unseen data from the 2023 season
